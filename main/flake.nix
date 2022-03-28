@@ -11,7 +11,6 @@
   inputs.src-dnsprotocol-main.ref   = "refs/heads/main";
   inputs.src-dnsprotocol-main.owner = "rockcavera";
   inputs.src-dnsprotocol-main.repo  = "nim-dnsprotocol";
-  inputs.src-dnsprotocol-main.dir   = "";
   inputs.src-dnsprotocol-main.type  = "github";
   
   inputs."stew".owner = "nim-nix-pkgs";
